@@ -1,0 +1,53 @@
+.head {
+    background-color: black;
+    height: 700px;
+
+}
+
+h6 {
+    color: white;
+}
+
+body {
+    text-transform: uppercase;
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+
+
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+    border-color: black;
+
+}
+
+a:link,
+a:visited {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover,
+a:active {
+    color: red;
+}
+
+
+.dev:hover {
+    color: red;
+    font-size: 70px;
+}
